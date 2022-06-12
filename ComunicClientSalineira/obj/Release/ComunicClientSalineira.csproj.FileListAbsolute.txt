@@ -1,0 +1,15 @@
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\bin\Release\ComunicClientSalineira.exe.config
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\bin\Release\ComunicClientSalineira.exe
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\bin\Release\ComunicClientSalineira.pdb
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.csproj.AssemblyReference.cache
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.csproj.SuggestedBindingRedirects.cache
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.Form1.resources
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.Properties.Resources.resources
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.csproj.GenerateResource.cache
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.csproj.CoreCompileInputs.cache
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.exe
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.pdb
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\bin\Release\ComunicClientSalineira.exe.manifest
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\bin\Release\ComunicClientSalineira.application
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.exe.manifest
+C:\Users\JeanSims\source\repos\ComunicClientSalineira\ComunicClientSalineira\obj\Release\ComunicClientSalineira.application
